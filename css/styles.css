@@ -1,15 +1,15 @@
 .header {
-    color: #2c3e50; /* Темно-синій колір тексту */
-    font-size: 2.5em; /* Великий розмір шрифту */
-    font-weight: bold; /* Жирний текст */
-    text-align: center; /* Центрування тексту */
-    text-transform: uppercase; /* Всі букви великими */
-    background-color: rgba(52, 152, 219, 0.8); /* Напівпрозорий синій фон */
-    padding: 20px; /* Відступи всередині */
-    border-radius: 10px; /* Закруглені кути */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Тінь */
-    margin-top: 0; /* Прибираємо відступ зверху */
-    margin-bottom: 20px; /* Відступ знизу */
+    color: #2c3e50; 
+    font-size: 2.5em; 
+    font-weight: bold; 
+    text-align: center; 
+    text-transform: uppercase; 
+    background-color: rgba(52, 152, 219, 0.8); 
+    padding: 20px; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    margin-top: 0; 
+    margin-bottom: 20px; 
 }
 body {
     margin: 0;
